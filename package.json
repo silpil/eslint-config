@@ -1,0 +1,24 @@
+{
+  "name": "@silpil/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint config for vue projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silpil/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "lint",
+    "code style",
+    "config",
+    "preset",
+    "vue"
+  ],
+  "author": "Khlebnikov Anton <sg@ooos.ru>",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": "^6.x.x",
+    "eslint-plugin-vue": "^6.x.x"
+  }
+}
